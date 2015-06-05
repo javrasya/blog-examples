@@ -1,2 +1,2 @@
-# (ahmetdal.org)[http://ahmetdal.org] blog examples
+# [ahmetdal.org](http://ahmetdal.org) blog examples
 

@@ -14,13 +14,6 @@
     <name>Letter Counter</name>
 
     <dependencies>
-        <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>${guava.hive.version}</version>
-        </dependency>
-
-
         <!-- Hadoop -->
         <dependency>
             <groupId>org.apache.hadoop</groupId>

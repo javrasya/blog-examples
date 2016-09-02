@@ -14,14 +14,15 @@
     <name>Letter Counter</name>
 
     <dependencies>
-        <!-- Hadoop -->
+
+
         <dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-common</artifactId>
             <version>${hadoop.version}</version>
             <scope>provided</scope>
         </dependency>
-        <!-- Hive -->
+
         <dependency>
             <groupId>org.apache.hive</groupId>
             <artifactId>hive-exec</artifactId>
@@ -29,6 +30,12 @@
             <scope>provided</scope>
         </dependency>
 
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
 
     </dependencies>
 

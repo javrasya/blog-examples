@@ -17,6 +17,7 @@
 
     <modules>
         <module>letter-counter</module>
+        <module>unittest</module>
     </modules>
 
 </project>
